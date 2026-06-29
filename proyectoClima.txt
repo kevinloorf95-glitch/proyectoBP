@@ -1,0 +1,14 @@
+# Proyecto Parcial 
+## Automatización de análisis y visualización de datos climáticos
+
+**Asignatura:** Bases de Programación
+
+**Programa:** Maestría en Ciencias de la Tierra
+
+**Grupo:** Kevin Loor, Carola Gordillo e Ingrid Orta
+
+**Archivo de datos:** [`Weather_Data-1.csv`](https://espolec-my.sharepoint.com/:x:/g/personal/cgordill_espol_edu_ec/IQDIthk0ayHgSKgJRik1kSm7ARX9jTVIAwJcLwE_tAFaCrg?e=uY3cHd)
+
+**Documento con instrucciones base:** [`Proyecto Primer Parcial_BasesdeProgramación.pdf`](https://espolec-my.sharepoint.com/:b:/g/personal/cgordill_espol_edu_ec/IQB4T_SPsphKRq9UyezR_kSKAS-qYN7bzGqdVDFru2nbPmg?e=rTsg9p)
+
+**Repositorio GitHub:** https://github.com/kevinloorf95-glitch/proyectoBP.git
